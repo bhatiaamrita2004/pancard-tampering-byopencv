@@ -3,6 +3,6 @@ imutils==0.5.4
 numpy
 opencv-python-headless
 Pillow==9.5.0
-scikit-image==0.17.2
+
 setuptools
 wheel
